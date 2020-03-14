@@ -1,0 +1,4 @@
+Play
+Gallery
+Exit
+TeddyBear Tetris
