@@ -1,6 +1,6 @@
 # Trial
 
-############################## STATE MACHINE CODE AND LOGIC #####################################
+################ STATE MACHINE CODE AND LOGIC ##################
 
 Ova verzija implementira razlicita stanja u toku igre. Cilj je da se igrica odvija kroz tri glavna stanja:
    - stanje main menija
